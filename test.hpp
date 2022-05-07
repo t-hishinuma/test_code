@@ -1,6 +1,7 @@
 #include<iostream>
 #include<vector>
 
+//hogehoge
 double sum(std::vector<double> &vec){
 
     double ans = 0;
