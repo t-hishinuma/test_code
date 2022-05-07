@@ -1,11 +1,11 @@
-#include"test.hpp"
+#include "test.hpp"
 
-int main(){
-    std::vector<double> vec(100, 1.0);
+int main() {
+  std::vector<double> vec(100, 1.0);
 
-    auto val = sum(vec);
+  auto val = sum(vec);
 
-    std::cout << val << std::endl;
+  std::cout << val << std::endl;
 
-    return 0;
+  return 0;
 }
