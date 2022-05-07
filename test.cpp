@@ -6,6 +6,10 @@ int main() {
   auto val = sum(vec);
 
   std::cout << val << std::endl;
+  std::cout << val << std::endl;
+  std::cout << val << std::endl;
+  std::cout << val << std::endl;
+  std::cout << val << std::endl;
 
   return 0;
 }
